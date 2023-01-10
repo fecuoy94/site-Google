@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: white;
+    margin: auto;
+    width: auto;
+
+
+}
+
+.Right{
+    
+        text-align: right;
+       }
+
+.Center{
+         
+      text-align: center;
+
+}
+.image{
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    margin: auto;
+}
+
